@@ -41,7 +41,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.isocalendar.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.mt }}
           user: Unnati2603
           base: ""
           plugin_isocalendar: yes
@@ -53,7 +53,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.habits.facts.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.mt }}
           base: ""
           plugin_habits: yes
           plugin_habits_facts: yes
@@ -65,7 +65,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.habits.charts.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.mt }}
           base: ""
           plugin_habits: yes
           plugin_habits_facts: no
