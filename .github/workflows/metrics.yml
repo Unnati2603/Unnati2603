@@ -1,4 +1,4 @@
-name: Metrics facts
+name: Metrics
 on:
   # Run daily at midnight
   schedule:
@@ -15,25 +15,35 @@ jobs:
     permissions:
       contents: write
     steps:
-      # Debug - print if secret exists
-      - name: Check secret
-        run: |
-          if [ -n "${{ secrets.METRICS_TOKEN }}" ]; then
-            echo "Secret exists and has length: ${#METRICS_TOKEN}"
-          else
-            echo "SECRET IS EMPTY OR NOT SET!"
-          fi
-        env:
-          METRICS_TOKEN: ${{ secrets.METRICS_TOKEN }}
-
-      # Mildly interesting facts
-      - uses: lowlighter/metrics@latest
+      # Labels
+      - name: Labels
+        uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.habits.svg
+          filename: metrics.plugin.topics.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_topics: yes
+          plugin_topics_limit: 12
+
+      # Icons
+      - name: Icons
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.topics.icons.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_topics: yes
+          plugin_topics_limit: 0
+          plugin_topics_mode: icons
+
+      # Isocalendar
+      - name: Isocalendar
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.isocalendar.svg
           token: ${{ secrets.METRICS_TOKEN }}
           user: Unnati2603
           base: ""
-          plugin_habits: yes
-          plugin_habits_facts: yes
-          plugin_habits_charts: no
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
           config_timezone: Asia/Kolkata
