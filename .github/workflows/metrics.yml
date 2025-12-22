@@ -15,6 +15,17 @@ jobs:
     permissions:
       contents: write
     steps:
+      # Debug - print if secret exists
+      - name: Check secret
+        run: |
+          if [ -n "${{ secrets.METRICS_TOKEN }}" ]; then
+            echo "Secret exists and has length: ${#METRICS_TOKEN}"
+          else
+            echo "SECRET IS EMPTY OR NOT SET!"
+          fi
+        env:
+          METRICS_TOKEN: ${{ secrets.METRICS_TOKEN }}
+
       # Mildly interesting facts
       - uses: lowlighter/metrics@latest
         with:
@@ -25,7 +36,4 @@ jobs:
           plugin_habits: yes
           plugin_habits_facts: yes
           plugin_habits_charts: no
-          plugin_habits_days: 30
-          plugin_habits_from: 50
           config_timezone: Asia/Kolkata
-          extras_css: ""
