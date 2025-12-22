@@ -53,12 +53,12 @@
 
 ---
 
-<h2 align="center">🏷️ Topics</h2>
+<!-- <h2 align="center">🏷️ Topics</h2>
 
 <div align="center">
   <img src="metrics.plugin.topics.svg" alt="Topics Labels" />
   <img src="metrics.plugin.topics.icons.svg" alt="Topics Icons" />
-</div>
+</div> -->
 
 ---
 

@@ -15,33 +15,12 @@ jobs:
     permissions:
       contents: write
     steps:
-      # Labels
-      - name: Labels
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.topics.svg
-          token: NOT_NEEDED
-          base: ""
-          plugin_topics: yes
-          plugin_topics_limit: 12
-
-      # Icons
-      - name: Icons
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.topics.icons.svg
-          token: NOT_NEEDED
-          base: ""
-          plugin_topics: yes
-          plugin_topics_limit: 0
-          plugin_topics_mode: icons
-
       # Isocalendar
       - name: Isocalendar
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.isocalendar.svg
-          token: ${{ secrets.mt }}
+          token: ${{ secrets.MT }}
           user: Unnati2603
           base: ""
           plugin_isocalendar: yes
@@ -53,7 +32,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.habits.facts.svg
-          token: ${{ secrets.mt }}
+          token: ${{ secrets.MT }}
           base: ""
           plugin_habits: yes
           plugin_habits_facts: yes
@@ -65,7 +44,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.habits.charts.svg
-          token: ${{ secrets.mt }}
+          token: ${{ secrets.MT }}
           base: ""
           plugin_habits: yes
           plugin_habits_facts: no
