@@ -28,38 +28,9 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           user: Unnati2603
           base: repositories
+          repositories: 100
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           config_timezone: Asia/Kolkata
 
-      # 💡 Coding habits – facts
-      - name: Coding habits (facts)
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.habits.facts.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          user: Unnati2603
-          base: repositories
-          repositories: 100
-          plugin_habits: yes
-          plugin_habits_facts: yes
-          plugin_habits_charts: no
-          plugin_habits_days: 30
-          plugin_habits_from: 200
-          config_timezone: Asia/Kolkata
-
-      # 📊 Coding habits – charts
-      - name: Coding habits (charts)
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.plugin.habits.charts.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          user: Unnati2603
-          base: repositories
-          repositories: 100
-          plugin_habits: yes
-          plugin_habits_facts: no
-          plugin_habits_charts: yes
-          plugin_habits_days: 30
-          plugin_habits_from: 200
-          config_timezone: Asia/Kolkata
+      # ...existing code...

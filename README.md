@@ -44,13 +44,6 @@
 
 ---
 
-<h2 align="center">💡 Coding Habits</h2>
-
-<div align="center">
-  <img src="metrics.plugin.habits.facts.svg" alt="Coding Habits Facts" />
-  <img src="metrics.plugin.habits.charts.svg" alt="Coding Habits Charts" />
-</div>
-
 ---
 
 <!-- <h2 align="center">🏷️ Topics</h2>
