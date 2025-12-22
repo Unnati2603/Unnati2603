@@ -36,10 +36,28 @@
 
 ---
 
-<h2 align="center"> Coding Habits</h2>
+<h2 align="center">📅 Contribution Calendar</h2>
 
 <div align="center">
-  <img src="metrics.plugin.habits.svg" alt="Coding Habits" />
+  <img src="metrics.plugin.isocalendar.svg" alt="Isocalendar" />
+</div>
+
+---
+
+<h2 align="center">💡 Coding Habits</h2>
+
+<div align="center">
+  <img src="metrics.plugin.habits.facts.svg" alt="Coding Habits Facts" />
+  <img src="metrics.plugin.habits.charts.svg" alt="Coding Habits Charts" />
+</div>
+
+---
+
+<h2 align="center">🏷️ Topics</h2>
+
+<div align="center">
+  <img src="metrics.plugin.topics.svg" alt="Topics Labels" />
+  <img src="metrics.plugin.topics.icons.svg" alt="Topics Icons" />
 </div>
 
 ---
