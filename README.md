@@ -36,15 +36,15 @@
   <img src="https://raw.githubusercontent.com/Unnati2603/Unnati2603/output/github-snake-dark.svg" alt="Snake animation" />
 </div>
 
----
 
-<h2 align="center">📅 Contribution Calendar</h2>
+
+<h2 align="center"> just something</h2>
 
 <div align="center">
   <img src="metrics.plugin.isocalendar.svg" alt="Isocalendar" />
 </div>
 
----
+
 
 
 
