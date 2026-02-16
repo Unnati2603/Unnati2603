@@ -1,3 +1,4 @@
+
 <!-- Animated Header GIF -->
 <p align="center">
   <img src="sleepycode.gif" width="400" alt="Sleepy Anime Girl Coding"/>
@@ -19,11 +20,8 @@
 
 {Work in progress}
 
-- 🔭 I’m currently working on **somethingn amazing**
-- 🌱 I’m currently learning **many many things**
-- 💬 Ask me about **Computers**
-- 📫 How to reach me **unnatichaurasia12@gmail.com**
-- ⚡ Talk to me about **Anime, Mangas and Drawing!**
+I’m currently building on **something amazing**  
+Ask me about **Computers, Anime, Manga and Drawing!**  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
