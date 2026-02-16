@@ -6,11 +6,11 @@
 <!-- Typing Animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&repeat=true&width=700&lines=console.log(%22Bzzzzz+Unnati+here%22)%3B;loop+%7B+build()+break()+overthink()+rebuild()+%7D;" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&repeat=true&width=700&lines=Makise+Kurisu+is+a+genius" alt="Typing SVG" />
   </a>
 </p>
 
-<h3 align="center">Undergrad @ NIT Jsr</code></h3>
+
 
 <!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=unnati2603&label=Profile%20views&color=fd6b86&style=for-the-badge" alt="unnati2603" />
@@ -38,7 +38,7 @@
 
 
 
-<h2 align="center"> just something</h2>
+<!-- <h2 align="center"> just something</h2>
 
 <div align="center">
   <img src="metrics.plugin.isocalendar.svg" alt="Isocalendar" />
@@ -48,7 +48,7 @@
 
 
 
-<!-- <h2 align="center">🏷️ Topics</h2>
+<h2 align="center">🏷️ Topics</h2>
 
 <div align="center">
   <img src="metrics.plugin.topics.svg" alt="Topics Labels" />
