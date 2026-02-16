@@ -1,16 +1,4 @@
 
-<!-- Animated Header GIF -->
-<p align="center">
-  <img src="sleepycode.gif" width="400" alt="Sleepy Anime Girl Coding"/>
-</p>
-
-<!-- Typing Animation -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&repeat=true&width=700&lines=Makise+Kurisu+is+a+genius" alt="Typing SVG" />
-  </a>
-</p>
-
 
 
 <!-- <p align="center">
@@ -27,6 +15,21 @@ Ask me about **Computers, Anime, Manga and Drawing!**
 <p align="left">
 <a href="https://linkedin.com/in/unnati-chaurasia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="unnati-chaurasia" height="30" width="40" /></a>
 </p>
+
+
+
+<!-- Animated Header GIF -->
+<p align="center">
+  <img src="sleepycode.gif" width="400" alt="Sleepy Anime Girl Coding"/>
+</p>
+
+<!-- Typing Animation -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&repeat=true&width=700&lines=Makise+Kurisu+is+a+genius" alt="Typing SVG" />
+  </a>
+</p>
+
 
 <h2 align="center">SnAkeeeeeee🐍</h2>
 
