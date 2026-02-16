@@ -11,17 +11,9 @@
 I’m currently building **something amazing**  
 Ask me about **Computers, Anime, Manga and Drawing!**  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/unnati-chaurasia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="unnati-chaurasia" height="30" width="40" /></a>
-</p>
+Connect with me: <a href="https://linkedin.com/in/unnati-chaurasia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="unnati-chaurasia" height="30" width="40" /></a>
 
 
-
-<!-- Animated Header GIF -->
-<p align="center">
-  <img src="sleepycode.gif" width="400" alt="Sleepy Anime Girl Coding"/>
-</p>
 
 <!-- Typing Animation -->
 <p align="center">
@@ -31,7 +23,11 @@ Ask me about **Computers, Anime, Manga and Drawing!**
 </p>
 
 
-<h2 align="center">SnAkeeeeeee🐍</h2>
+
+<!-- Animated Header GIF -->
+<p align="center">
+  <img src="sleepycode.gif" width="400" alt="Sleepy Anime Girl Coding"/>
+</p>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Unnati2603/Unnati2603/output/github-snake-dark.svg" alt="Snake animation" />
