@@ -20,7 +20,7 @@
 
 {Work in progress}
 
-I’m currently building on **something amazing**  
+I’m currently building **something amazing**  
 Ask me about **Computers, Anime, Manga and Drawing!**  
 
 <h3 align="left">Connect with me:</h3>
