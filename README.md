@@ -29,13 +29,13 @@ Connect with me: <a href="https://linkedin.com/in/unnati-chaurasia" target="blan
   <img src="sleepycode.gif" width="400" alt="Sleepy Anime Girl Coding"/>
 </p>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://raw.githubusercontent.com/Unnati2603/Unnati2603/output/github-snake-dark.svg" alt="Snake animation" />
 </div>
 
 
 
-<!-- <h2 align="center"> just something</h2>
+<h2 align="center"> just something</h2>
 
 <div align="center">
   <img src="metrics.plugin.isocalendar.svg" alt="Isocalendar" />
